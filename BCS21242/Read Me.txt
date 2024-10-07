@@ -1,0 +1,5 @@
+Please put the project in ht-docs folder of xammp and do run the sql script to setup the database before testing website.
+
+And make sure to have an internet connection to load the proper cdn
+
+Thanks
